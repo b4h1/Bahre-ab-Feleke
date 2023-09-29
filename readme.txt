@@ -1,8 +1,9 @@
-Thank you for using our template!
+﻿BAHRE AB FELEKE
+SOFTWARE ENGINEER
 
-For more awesome templates please visit https://colorlib.com/wp/templates/
-
-Copyright information for the template can't be altered/removed unless you purchase a license.
-More information about the license is available here: https://colorlib.com/wp/licence/
-
-Removing copyright information without the license will result in suspension of your hosting and/or domain name(s).
+My Name is Bahre Ab feleke i am final year student of computer science with experience working across the full-stack of software development.
+Looking for a role where I can grow and learn from experienced team members while drawing on project experience I have already successfully executed.
+Microsoft Office with 3 years of experience in Providing support with software updates as needed,
+Developing documentation that helps users solve problems or get more out of their Microsoft products, 
+Providing technical support for Microsoft Office products and services, Performing installation and uninstallation of software solutions and hardware,
+Performing troubleshooting of software applications in a timely fashion.
