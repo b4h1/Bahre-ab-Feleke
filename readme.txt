@@ -1,7 +1,7 @@
 ﻿BAHRE AB FELEKE
 SOFTWARE ENGINEER
 
-My Name is Bahre Ab feleke i am final year student of computer science with experience working across the full-stack of software development.
+My Name is Bahre Ab feleke i gratuated in Computer science and i am final year student of computer science with experience working across the full-stack of software development.
 Looking for a role where I can grow and learn from experienced team members while drawing on project experience I have already successfully executed.
 Microsoft Office with 3 years of experience in Providing support with software updates as needed,
 Developing documentation that helps users solve problems or get more out of their Microsoft products, 
